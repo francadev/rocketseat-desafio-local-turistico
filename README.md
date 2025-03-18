@@ -6,3 +6,4 @@ Esse é um dos desafios práticos da **formação Fullstack** da **trilha de apr
 
 Este é o Figma em que o desafio se baseou:  
 [🔗 Figma - Local Turístico](https://www.figma.com/community/file/1384542229391733447/local-turistico)
+
